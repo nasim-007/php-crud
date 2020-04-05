@@ -1,0 +1,13 @@
+database_credentials.php
+config.php
+create.php
+delete.php
+read.php
+update.php
+error.php
+index.php
+
+*.log
+*.conf
+node_modules/
+vendor/
